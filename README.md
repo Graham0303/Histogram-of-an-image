@@ -1,4 +1,6 @@
-# Histogram and Histogram Equalization of an image
+### EX NO : 04
+### DATE  : 26.04.2022
+# <p align="center">Histogram and Histogram Equalization of an image</p>
 ## AIM:
 To obtain a histogram for finding the frequency of pixels in an Image with pixel values ranging from 0 to 255. Also write the code using OpenCV to perform histogram equalization.
 
@@ -17,9 +19,15 @@ Equalize the grayscale image.
 ### Step 5:
 Display the equalized grayscale image.
 
+<br/>
+<br/>
+<br/>
+<br/>
+
+
 ## Program:
 ```python
-# Developed By: Graham stanes
+# Developed By: Graham Stanes A
 # Register Number: 212220230020
 
 import cv2
@@ -66,21 +74,27 @@ plt.imshow(equ)
 plt.show()
 
 ```
+
+<br/>
+<br/>
+<br/>
+
 ## Output:
 ### Input Grayscale Image and Color Image
 
-![image](https://user-images.githubusercontent.com/75235150/169487663-2889adf6-3634-4aa7-83b4-c6f9e9c2395d.png)
-![image](https://user-images.githubusercontent.com/75235150/169487685-d5de2a71-7f8c-403a-9b84-b0f1ae079afd.png)
+![output1](https://user-images.githubusercontent.com/75235488/166112973-9c7dda80-d7b5-4428-b9c1-70639f55ae7c.png)
 
+![output2](https://user-images.githubusercontent.com/75235488/166112985-4ad437ec-f308-4796-b3da-4fd1249c671c.png)
 
 ### Histogram of Grayscale Image and any channel of Color Image
-![image](https://user-images.githubusercontent.com/75235150/169487744-db821f60-1229-4eca-8cad-28b2badff739.png)
-![image](https://user-images.githubusercontent.com/75235150/169487756-2902c986-5bf8-4df3-8c5c-63907f84f190.png)
 
+![output3](https://user-images.githubusercontent.com/75235488/166112991-9e2110f7-6a42-4f19-9e92-58176cf77c8f.png)
+
+![output4](https://user-images.githubusercontent.com/75235488/166113001-eecd3443-5594-4336-aa1a-3aa748509661.png)
 
 ### Histogram Equalization of Grayscale Image
 
-![image](https://user-images.githubusercontent.com/75235150/169487808-32e2055e-56b0-49b1-91f2-f2427019a1eb.png)
+![output5](https://user-images.githubusercontent.com/75235488/166113007-3b5896dc-6fe0-484a-8238-fac7f3005e80.png)
 
 ## Result:
 
